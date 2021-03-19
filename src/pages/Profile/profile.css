@@ -1,0 +1,123 @@
+.bg-container {
+  background-color: #fff;
+}
+
+.form-content-profile {
+  padding: 0 35px;
+}
+
+.profile-content {
+  padding: 15px 5px;
+  margin-top: 50px;
+  margin-bottom: 5px;
+}
+
+.profile-title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.profile-subtitle {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #212529;
+}
+
+.profile-titles {
+  padding: 80px 50px;
+}
+
+.email-section {
+  margin-bottom: 5px;
+  padding: 20px 10px 0;
+}
+
+.email-titles {
+  padding: 20px 45px;
+}
+
+.instruction-section {
+  margin-bottom: 5px;
+}
+
+.img-content {
+  padding-left: 40px;
+}
+
+.profile-img {
+  width: 180px;
+  height: 180px;
+  justify-content: left;
+  border-radius: 90px;
+}
+
+.instruction-titles,
+.personal-links-titles {
+  padding: 120px 50px;
+}
+
+.instruction-fields,
+.form-links-group {
+  padding: 20px;
+}
+
+.custom-file {
+  margin-top: 10px;
+}
+
+.input-group label {
+  background: #3498db;
+  border-radius: 5px;
+  color: #fff;
+  width: 150px;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.updt-email-btn {
+  margin-top: 10px;
+}
+
+@media (max-width: 767px) {
+  .profile-content,
+  .profile-img {
+    padding: 0;
+    margin: 20px 0 5px;
+  }
+
+  .personal-links-titles,
+  .profile-titles {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+
+  .profile-img {
+    height: 120px;
+    width: 120px;
+  }
+
+  .img-content {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+
+  .instruction-titles {
+    padding: 20px 50px;
+  }
+  .input-group label {
+    margin: 0;
+    width: 130px;
+  }
+}

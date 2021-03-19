@@ -1,0 +1,29 @@
+.not-found-title {
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 50px;
+  color: #212529;
+}
+
+.not-found-sub-title {
+  color: #6c757d;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+}
+
+.not-found-text {
+  padding: 10%;
+  margin-top: 100px;
+}
+
+.robot {
+  margin-top: 50px;
+  width: 400px;
+}
+
+.not-found-text,
+.robot {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}

@@ -1,0 +1,62 @@
+li {
+  list-style: none;
+}
+
+.title {
+  color: #c93b59;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-transform: capitalize;
+  text-align: left;
+  letter-spacing: 1px;
+  padding: 10px 30px;
+}
+
+.separator {
+  margin: 0 30px;
+  background-color: #c93b59;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.content {
+  padding: 30px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: justify;
+  color: #212529;
+}
+
+.fas-icon {
+  color: #c93b59;
+  margin-right: 5px;
+}
+
+.footer-text {
+  color: #6c757d;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.footer-text p {
+  margin-top: 10px;
+}
+
+.footer {
+  color: #dc3545;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.wpp-link {
+  text-transform: none;
+  color: #28a745;
+}
+
+.wpp-link:hover {
+  color: #1f7433;
+}
