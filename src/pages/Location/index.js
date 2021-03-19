@@ -90,8 +90,6 @@ const Location = () => {
     }
   }
 
-  const onSubmit = (data) => console.log(data);
-
   function formatCep(cep) {
     const x = cep.replace(/\D/g, "").match(/(\d{0,5})(\d{0,3})/);
     return !!x[2] ? `${x[1]}-${x[2]}` : !!x[1] ? `${x[1]}` : "";
@@ -103,7 +101,7 @@ const Location = () => {
       <div className="container">
         <div className="container main-content main-content--shadow">
           <div className="row">
-            <div className="col-lg-5 col-md-4">
+            <div className="col-lg-5 col-md-6">
               <div className="title form-aside">
                 instruções
                 <p className="desc">
@@ -113,8 +111,8 @@ const Location = () => {
               </div>
             </div>
 
-            <div className="col-lg-7 col-md-4 form-content">
-              <form onSubmit={onSubmit} className="form-content">
+            <div className="col-lg-7 col-md-6 form-content">
+              <form className="form-content">
                 <div className="form-group">
                   <label htmlFor="cep">
                     CEP <span className="asterisk">*</span>
