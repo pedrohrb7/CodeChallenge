@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/CodeChallenge/home/static/css/main.141a30e1.chunk.css",
-    "main.js": "/CodeChallenge/home/static/js/main.49f07372.chunk.js",
-    "main.js.map": "/CodeChallenge/home/static/js/main.49f07372.chunk.js.map",
-    "runtime-main.js": "/CodeChallenge/home/static/js/runtime-main.04577ac2.js",
-    "runtime-main.js.map": "/CodeChallenge/home/static/js/runtime-main.04577ac2.js.map",
-    "static/js/2.11c3878a.chunk.js": "/CodeChallenge/home/static/js/2.11c3878a.chunk.js",
-    "static/js/2.11c3878a.chunk.js.map": "/CodeChallenge/home/static/js/2.11c3878a.chunk.js.map",
-    "index.html": "/CodeChallenge/home/index.html",
-    "static/css/main.141a30e1.chunk.css.map": "/CodeChallenge/home/static/css/main.141a30e1.chunk.css.map",
-    "static/js/2.11c3878a.chunk.js.LICENSE.txt": "/CodeChallenge/home/static/js/2.11c3878a.chunk.js.LICENSE.txt",
-    "static/media/applys.2aa695d3.svg": "/CodeChallenge/home/static/media/applys.2aa695d3.svg",
-    "static/media/bell.5f98fb7f.svg": "/CodeChallenge/home/static/media/bell.5f98fb7f.svg",
-    "static/media/logo.ad6c803d.svg": "/CodeChallenge/home/static/media/logo.ad6c803d.svg",
-    "static/media/robot.c0cb4844.svg": "/CodeChallenge/home/static/media/robot.c0cb4844.svg",
-    "static/media/search.566948ce.svg": "/CodeChallenge/home/static/media/search.566948ce.svg",
-    "static/media/user.be3bad4b.svg": "/CodeChallenge/home/static/media/user.be3bad4b.svg",
-    "static/media/user.fb0c9112.svg": "/CodeChallenge/home/static/media/user.fb0c9112.svg"
+    "main.css": "/CodeChallenge/static/css/main.141a30e1.chunk.css",
+    "main.js": "/CodeChallenge/static/js/main.357e4e16.chunk.js",
+    "main.js.map": "/CodeChallenge/static/js/main.357e4e16.chunk.js.map",
+    "runtime-main.js": "/CodeChallenge/static/js/runtime-main.5c939601.js",
+    "runtime-main.js.map": "/CodeChallenge/static/js/runtime-main.5c939601.js.map",
+    "static/js/2.11c3878a.chunk.js": "/CodeChallenge/static/js/2.11c3878a.chunk.js",
+    "static/js/2.11c3878a.chunk.js.map": "/CodeChallenge/static/js/2.11c3878a.chunk.js.map",
+    "index.html": "/CodeChallenge/index.html",
+    "static/css/main.141a30e1.chunk.css.map": "/CodeChallenge/static/css/main.141a30e1.chunk.css.map",
+    "static/js/2.11c3878a.chunk.js.LICENSE.txt": "/CodeChallenge/static/js/2.11c3878a.chunk.js.LICENSE.txt",
+    "static/media/applys.2aa695d3.svg": "/CodeChallenge/static/media/applys.2aa695d3.svg",
+    "static/media/bell.5f98fb7f.svg": "/CodeChallenge/static/media/bell.5f98fb7f.svg",
+    "static/media/logo.ad6c803d.svg": "/CodeChallenge/static/media/logo.ad6c803d.svg",
+    "static/media/robot.c0cb4844.svg": "/CodeChallenge/static/media/robot.c0cb4844.svg",
+    "static/media/search.566948ce.svg": "/CodeChallenge/static/media/search.566948ce.svg",
+    "static/media/user.be3bad4b.svg": "/CodeChallenge/static/media/user.be3bad4b.svg",
+    "static/media/user.fb0c9112.svg": "/CodeChallenge/static/media/user.fb0c9112.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.04577ac2.js",
+    "static/js/runtime-main.5c939601.js",
     "static/js/2.11c3878a.chunk.js",
     "static/css/main.141a30e1.chunk.css",
-    "static/js/main.49f07372.chunk.js"
+    "static/js/main.357e4e16.chunk.js"
   ]
 }
